@@ -23,11 +23,11 @@ Raw radiology report (free text)
       pipeline.py             ← I/O: read CSV → classify → write CSV
            │
            ▼
-assignment_cases_updated.csv  ← Structured output with categories + reasoning
+output_assignment_cases_updated.csv  ← Structured output with categories + reasoning
 ```
 
 **Input:** `assignment_cases.csv` — 20 cases, each with a full CT report and blank answer columns  
-**Output:** `assignment_cases_updated.csv` — same file, every answer column filled
+**Output:** `output_assignment_cases_updated.csv` — same file, every answer column filled
 
 ---
 
