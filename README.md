@@ -142,14 +142,14 @@ Neither `report_parser.py` nor `classifier_engine.py` imports from each other. T
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/pulmonary-nodule-classifier
-cd pulmonary-nodule-classifier
+git clone https://github.com/stormothecyborg/Pulmonary-Nodule-Classification-Assignment
+cd Pulmonary-Nodule-Classification-Assignment
 
 # No dependencies beyond the Python standard library
 python3 pipeline.py
 ```
 
-Output is written to `assignment_cases_updated.csv`.
+Output is written to EXCEL file `assignment_cases_updated.xlsx` and CSV `output_assignment_cases_updated.csv`.
 
 ### Use the classifier directly
 
