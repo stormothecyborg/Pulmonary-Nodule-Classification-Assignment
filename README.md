@@ -2,7 +2,6 @@
 
 An end-to-end NLP pipeline that reads raw radiology reports and automatically classifies pulmonary nodules according to two major clinical guidelines — **Fleischner Society 2017** and **Lung-RADS v2022** — outputting structured management recommendations with detailed clinical reasoning.
 
-Built as part of a pre-assignment for **[Qure.ai](https://qure.ai)** — an AI medical imaging company.
 
 ---
 
